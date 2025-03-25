@@ -3,6 +3,12 @@
   * Personal notes
   * Examples 
     * here | DIFFERENT folders
+      * _Example of machine learning:_ 
+        * Keras/TensorFlow
+        * scikit-learn
+        * BigQuery ML
+      * _Example of data processing:_
+        * SQL
     * [Examples | Deepnote](https://deepnote.com/launch?url=https://github.com/GoogleCloudPlatform/ml-design-patterns)
 
 ## Goal
